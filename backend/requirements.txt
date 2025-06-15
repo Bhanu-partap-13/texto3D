@@ -1,0 +1,12 @@
+torch
+torchvision
+diffusers
+transformers
+fastapi
+uvicorn
+numpy
+pillow
+tqdm
+scipy
+trimesh
+scikit-image 
